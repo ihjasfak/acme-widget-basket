@@ -1,0 +1,26 @@
+{
+    "name": "acme/widget-basket",
+    "description": "A proof of concept basket system for Acme Widget Co.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Acme\\Tests\\": "tests/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AJ Mohamed Ihjas"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
