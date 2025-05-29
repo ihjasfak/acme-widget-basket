@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🛒 Acme Widget Basket
 
 This is a proof-of-concept e-commerce cart system for **Acme Widget Co.** built using PHP, MySQL, JavaScript, and Bootstrap. It demonstrates dynamic product catalog loading, offer handling (including buy-one-get-one and percentage discounts), and delivery charge calculation based on configurable rules.
