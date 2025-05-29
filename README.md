@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🛒 Acme Widget Basket
 
@@ -118,3 +119,6 @@ Delivery charges are based on total cart value:
 
 
 > Built with ❤️ for the Acme Widget Co. by [@ihjasfak](https://github.com/ihjasfak)
+=======
+# acme-widget-basket
+>>>>>>> 4924656bf331ba960b3edfea4ffc6bf672488718
