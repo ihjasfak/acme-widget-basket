@@ -22,6 +22,7 @@ This is a proof-of-concept e-commerce cart system for **Acme Widget Co.** built 
 
 ## 📂 Project Structure
 
+```
 acme-widget-basket/
 │
 ├── db/
@@ -42,6 +43,7 @@ acme-widget-basket/
 |   └── ProductTest.php
 ├── composer.json              
 └── README.md                   # This file
+```
 
 ## ⚙️ Setup Instructions
 
@@ -117,6 +119,3 @@ Delivery charges are based on total cart value:
 
 
 > Built with ❤️ for the Acme Widget Co. by [@ihjasfak](https://github.com/ihjasfak)
-=======
-# acme-widget-basket
->>>>>>> 4924656bf331ba960b3edfea4ffc6bf672488718
